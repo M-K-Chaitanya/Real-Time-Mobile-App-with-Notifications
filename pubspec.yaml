@@ -1,0 +1,13 @@
+name: real_time_mobile_app_with_notifications
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+# Flutter configuration
+flutter:
+  uses-material-design: true
